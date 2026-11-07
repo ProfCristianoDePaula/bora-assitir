@@ -1,0 +1,6 @@
+{
+  "name": "Bora Assistir?",
+  "description": "Descubra o que assistir agora, dê match em filmes com seus amigos, gire a roleta de decisões e organize sua sessão de streaming com catálogo e classificação indicativa brasileira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
